@@ -5,3 +5,4 @@
 - [x] Initialized Cargo project and connected to GitHub.
 - [x] Implemented basic terminal input reading.
 - [x] implement permanent file storage for journal entries	
+- [x] Implemented reading mode for journal entries.
