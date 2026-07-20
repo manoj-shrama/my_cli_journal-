@@ -1,3 +1,4 @@
 I successfullly implemented file handling in Rust
 i successfully implemented the file handiling in rust
 nice project
+clear
